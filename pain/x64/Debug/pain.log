@@ -1,0 +1,9 @@
+﻿  painpeko.c
+C:\Users\Armita\source\repos\pain\pain\painpeko.c(43,5): warning C4047: 'return': 'char' differs in levels of indirection from 'char [301]'
+C:\Users\Armita\source\repos\pain\pain\painpeko.c(56,1): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Armita\source\repos\pain\pain\painpeko.c(57,1): warning C4129: '_': unrecognized character escape sequence
+C:\Users\Armita\source\repos\pain\pain\painpeko.c(58,1): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Armita\source\repos\pain\pain\painpeko.c(59,1): warning C4129: '_': unrecognized character escape sequence
+C:\Users\Armita\source\repos\pain\pain\painpeko.c(105,9): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Armita\source\repos\pain\pain\painpeko.c(106,9): warning C4129: '_': unrecognized character escape sequence
+  pain.vcxproj -> C:\Users\Armita\source\repos\pain\x64\Debug\pain.exe

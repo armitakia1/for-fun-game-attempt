@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="pain/pain.vcxproj" Id="7e9f32b1-51d3-4186-b6a5-5fc91e44603f" />
+</Solution>
